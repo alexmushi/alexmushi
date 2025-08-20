@@ -44,16 +44,14 @@ Viapago is a payment portal designed to be efficient, maintainable, and intuitiv
 ## Personal projects:
 
 ### Australiapp:
+I created Australiapp as a simple way to track my expenses while I'm studying abroad. It provides a Node.js/Express REST API and a React frontend. https://github.com/alexmushi/Australiapp
 
 ### Adobe OCR Dashboard:
-
+I created this simple app as a proof of concept for the Notaría project. It didn't make its way to the final version of the app, but it helped me learn to use Adobe's OCR API. https://github.com/alexmushi/pruebaArquitecturaOCR
 
 ## 📚 Education
 - **Macquarie University** — Master of IT (Cyber Security), 2025–2026 
 - **ITESM (Tecnológico de Monterrey)** — B.Eng. Computer Technologies, 2022-2026
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexmushi&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmush&layout=compact)
 
 
