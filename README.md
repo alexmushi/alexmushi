@@ -54,5 +54,6 @@ Proof-of-concept application exploring Adobe's OCR API for document processing.
 - **Macquarie University** — Master of IT (Cyber Security), 2025–2026 
 - **ITESM (Tecnológico de Monterrey)** — B.Eng. Computer Technologies, 2022-2026
 
+[![build](https://github.com/your-org/notaria-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/notaria-platform/actions/workflows/ci.yml)
 
 
