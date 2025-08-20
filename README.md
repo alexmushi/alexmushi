@@ -22,11 +22,9 @@ Hi! I’m Alejandro Muñoz Shimano from Querétaro, México. I’m studying Comp
 
 **Cloud / DevOps**  
 `Docker` · `GitHub Actions` · `Vite` · `CI/CD`  
+
 **Testing & QA**  
 `Jest` · `Playwright` · `pytest` · `TestRail/Zephyr` · `Jira` · uTest (crowd testing)
-
-**Standards & Practices**  
-Async/await only · Clean Architecture · Lint/format gates · Conventional Commits 
 
 ---
 
