@@ -15,7 +15,7 @@ Hi! I’m Alejandro Muñoz Shimano from Querétaro, México. I’m studying Comp
 ## 🧰 Tech Stack
 
 **Languages**  
-`Python` · `C#` · `JavaScript` · `TypeScript` · `Kotlin` · `SQL` · `HTML/CSS/Sass`
+`Python` · `JavaScript` · `C#` · `HTML/CSS/Sass` · `Kotlin` · `SQL` · `TypeScript`
 
 **Frameworks & Libraries**  
 `React` (Tailwind, shadcn/ui) · `Node.js` · `.NET / ASP.NET` · `Bulma` · `Bootstrap` · `Mesa` (agent-based) 
@@ -24,7 +24,7 @@ Hi! I’m Alejandro Muñoz Shimano from Querétaro, México. I’m studying Comp
 `Docker` · `GitHub Actions` · `Vite` · `CI/CD`  
 
 **Testing & QA**  
-`Jest` · `Playwright` · `pytest` · `TestRail/Zephyr` · `Jira` · uTest (crowd testing)
+`Jest` · uTest (crowd testing)
 
 ---
 
