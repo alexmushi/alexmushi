@@ -43,7 +43,7 @@ Viapago is a payment portal designed to be efficient, maintainable, and intuitiv
 ## 💡 Personal Projects
 
 ### [Australiapp](https://github.com/alexmushi/Australiapp)
-I created Australiapp as a simple way to track my expenses while I'm studying abroad. It provides a Node.js/Express REST API and a React frontend.
+Online portal to track my expenses and display reports while I'm studying abroad. It provides a Node.js/Express REST API and a React frontend.
 
 ### [Adobe OCR Dashboard](https://github.com/alexmushi/pruebaArquitecturaOCR)
 Console application that uses OCR to detect Mexican voter identification cards.
