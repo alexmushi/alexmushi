@@ -30,13 +30,12 @@
 ## 🚀 Featured Projects
 
 ### [Notaría 38 & 76](https://www.notarias38y76.com/)
-
 An online portal for Notarías 38 y 76 in Querétaro that enables clients to start legal processes online and upload documents for lawyer review, reducing the need for in-person visits and saving around **30,000 sheets of paper each month**.
 
-### Saca La Bici
+### [Saca La Bici](https://play.google.com/store/apps/details?id=com.kotlin.sacalabici&pcampaignid=web_share)
 Mobile app for the organization "Saca la Bici" focused on promoting sustainable urban mobility through safe routes and cycling activities in Querétaro. Some of the main functionalities include a social media platform for announcements and events and a map to plan and see in real time the routes (using Mapbox).
 
-### Viapago
+### [Viapago](https://www.youtube.com/watch?v=30KhGPoSm20&ab_channel=Aleyuki)
 Viapago is a payment portal designed to be efficient, maintainable, and intuitive. Its main purpose is to consolidate the financial information management for the Via Diseño's (a university in Querétaro) administration, facilitate access to this information for students, and streamline related processes for both.
 
 ---
@@ -44,7 +43,7 @@ Viapago is a payment portal designed to be efficient, maintainable, and intuitiv
 ## 💡 Personal Projects
 
 ### [Australiapp](https://github.com/alexmushi/Australiapp)
-I created Australiapp as a simple way to track my expenses while I'm studying abroad. It provides a Node.js/Express REST API and a React frontend. https://github.com/alexmushi/Australiapp
+I created Australiapp as a simple way to track my expenses while I'm studying abroad. It provides a Node.js/Express REST API and a React frontend.
 
 ### [Adobe OCR Dashboard](https://github.com/alexmushi/pruebaArquitecturaOCR)
 Proof-of-concept application exploring Adobe's OCR API for document processing.
