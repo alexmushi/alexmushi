@@ -54,5 +54,9 @@ Console application that uses OCR to detect Mexican voter identification cards.
 - **Macquarie University** — Master of IT (Cyber Security), 2025–2026 
 - **ITESM (Tecnológico de Monterrey)** — B.Eng. Computer Technologies, 2022-2026
 
+---
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexmushi" alt="alexmushi" /></a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexmushi&show_icons=true&theme=tokyonight&locale=en" alt="alexmushi" /></p>
 
