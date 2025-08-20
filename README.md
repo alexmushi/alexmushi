@@ -46,7 +46,7 @@ Viapago is a payment portal designed to be efficient, maintainable, and intuitiv
 I created Australiapp as a simple way to track my expenses while I'm studying abroad. It provides a Node.js/Express REST API and a React frontend.
 
 ### [Adobe OCR Dashboard](https://github.com/alexmushi/pruebaArquitecturaOCR)
-Proof-of-concept application exploring Adobe's OCR API for document processing.
+Console application that uses OCR to detect Mexican voter identification cards.
 
 ---
 
