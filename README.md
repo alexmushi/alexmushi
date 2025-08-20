@@ -4,7 +4,7 @@
   <a href="mailto:alejandromshimano@gmail.com"><img src="https://img.shields.io/badge/Email-alejandromshimano%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/alejandro-mu%C3%B1oz-shimano-867740334"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://alexmushi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="/link-to-resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume"></a>
+ // <a href="/link-to-resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume"></a>
 </p>
 
 **Full-stack developer & cybersecurity enthusiast** from Querétaro, México. I'm studying Computer Technologies Engineering at ITESM and a Master's in IT (Cyber Security) at Macquarie University. I'm a creative and persistent person with strong leadership skills, able to build solid relationships and communicate effectively in multidisciplinary teams. I enjoy learning on my own initiative and constantly look for ways to grow and add value. Currently, I apply these skills in software development and technology projects, focusing on quality, efficiency, and delivering a great user experience.
