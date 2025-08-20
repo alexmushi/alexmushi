@@ -9,12 +9,6 @@
 
 **Full-stack developer & cybersecurity enthusiast** from Querétaro, México. I'm studying Computer Technologies Engineering at ITESM and a Master's in IT (Cyber Security) at Macquarie University. I'm a creative and persistent person with strong leadership skills, able to build solid relationships and communicate effectively in multidisciplinary teams. I enjoy learning on my own initiative and constantly look for ways to grow and add value. Currently, I apply these skills in software development and technology projects, focusing on quality, efficiency, and delivering a great user experience.
 
-## 🔗 Quick Links
-- 📫 **Email**: alejandromshimano@gmail.com  
-- 💼 **LinkedIn**: www.linkedin.com/in/alejandro-muñoz-shimano-867740334
-- 🧪 **Portfolio**: https://alexmushi.github.io/portfolio/
-- 📄 **Resume (PDF)**: /link-to-resume.pdf
-
 ---
 
 ## 🧰 Tech Stack
