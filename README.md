@@ -56,4 +56,3 @@ Console application that uses OCR to detect Mexican voter identification cards.
 
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexmushi&show_icons=true&theme=tokyonight&locale=en" alt="alexmushi" /></p>
-<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=alexmushi&title=MultiLanguage,Commits,PullRequest,Repositories,Reviews,Experience&theme=nord" alt="alexmushi" /></p>
