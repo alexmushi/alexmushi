@@ -22,9 +22,6 @@
 **Cloud / DevOps**  
 `Docker` · `GitHub Actions` · `Vite` · `CI/CD`  
 
-**Testing & QA**  
-`Jest` · uTest (crowd testing)
-
 ---
 
 ## 🚀 Featured Projects
